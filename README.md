@@ -1,6 +1,4 @@
 # ApiNodeReact
-Frontend em react, Api de estudos (Sem banco de dados, dados na memória em um array)
-Lendo os dados da api backend node que esta no meu repositório.
-
+Frontend em react interagindo com <a href="https://github.com/almcarvalho/Backend-Node.js/blob/main/README.md">esse backend feito em node</a>
 
 ![Alt Text](https://github.com/almcarvalho/ApiNodeReact/blob/main/demo/demo.gif)
